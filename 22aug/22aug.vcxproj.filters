@@ -23,10 +23,19 @@
     <ClInclude Include="Workers.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
-    <ClInclude Include="Products.h">
+    <ClInclude Include="Item.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
-    <ClInclude Include="service.h">
+    <ClInclude Include="Service.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="StorageItem.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Storage.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="Reciept.h">
       <Filter>Файлы ресурсов</Filter>
     </ClInclude>
   </ItemGroup>
